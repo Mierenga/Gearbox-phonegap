@@ -1,8 +1,6 @@
-# Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
+# Gearbox calculator app
 
-A PhoneGap Hello World template
-
-## Usage
+Calculator for gearboxes
 
 #### PhoneGap CLI
 
